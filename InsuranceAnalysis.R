@@ -57,7 +57,8 @@ table1(~age_table + female + edu_table + marital_table + income + labor_market_t
 ####==========================================================================####
 # 3.2: Table 2. During your last trip abroad for personal not business travel where did you go?
 ####==========================================================================###
-
+# Create Folder
+dir.create('./FlexTables')
 #Para tener el valor de overall 
 df_overall <- df
 df_overall <- df_overall %>%
@@ -560,6 +561,8 @@ df %>%
 ####==========================================================================####
 # 4. Regressions
 ####==========================================================================###
+#Create folder to store regression outputs
+dir.create('./RegOutput')
 ####==========================================================================####
 # 4.1 Table 7 
 ####==========================================================================###
