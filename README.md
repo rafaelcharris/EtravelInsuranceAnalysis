@@ -9,4 +9,4 @@ different european countries. We this data plus mortality rate by european regio
 
 * `DataCleaning.R`: This file conducts all the cleaning and construction of new varaibles for analysis. It creates a new cleaned data set `df_clean` that is stored in the `data` folder.
 * `MortalityDatawrangling.R`: This file loads mortality data from five countries by region, creates variables for analysis, and outputs a new data set with the merged data
-* `InsuranceAnalysis.R`: This file conducts all the analysis. The output are regression and descriptive tables.
+* `InsuranceAnalysis.R`: This file conducts all the OLS regression with robust standard errors, descriptive statistics tables, and sentiment analysis. The output are regression and descriptives tables.
