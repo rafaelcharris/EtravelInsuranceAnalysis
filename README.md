@@ -2,8 +2,8 @@
 
 This repository is an example of data analysis for a project I worked on with the European Comission.
 I cannot share the original data, so the data I uploaded is fake, but similar to the original in case someone wants to run the code.
-The purpose of this analysis is to understand wheather covid priming influences how people make insurance decisions in a online web experiment conducted y 
-several countries in Europe. 
+The purpose of this analysis is to understand wheather covid priming influences how people make insurance decisions in a online web experiment conducted in 
+different european countries. We this data plus mortality rate by european region to analyze the data.
 
 ## Contents
 
