@@ -1,0 +1,613 @@
+state;mortality_rate;country_code;postal_code;place_name;state_name;county_name
+bihor;1.1752157075888308;RO;410452;oradea;bihor;-
+bihor;1.1752157075888308;RO;410419;oradea;bihor;-
+bihor;1.1752157075888308;RO;415300;marghita;bihor;-
+bihor;1.1752157075888308;RO;410306;oradea;bihor;-
+bihor;1.1752157075888308;RO;410402;oradea;bihor;-
+bihor;1.1752157075888308;RO;410526;oradea;bihor;-
+bihor;1.1752157075888308;RO;410052;oradea;bihor;-
+bihor;1.1752157075888308;RO;410001;oradea;bihor;-
+bihor;1.1752157075888308;RO;410437;oradea;bihor;-
+bihor;1.1752157075888308;RO;410005;oradea;bihor;-
+bihor;1.1752157075888308;RO;410230;oradea;bihor;-
+bihor;1.1752157075888308;RO;410306;oradea;bihor;-
+bihor;1.1752157075888308;RO;410328;oradea;bihor;-
+bihor;1.1752157075888308;RO;410068;oradea;bihor;-
+bihor;1.1752157075888308;RO;410591;oradea;bihor;-
+bihor;1.1752157075888308;RO;415200;beius;bihor;-
+bistrita-nasaud;1.2270703472840605;RO;420110;bistrita;bistrita-nasaud;-
+bistrita-nasaud;1.2270703472840605;RO;420105;bistrita;bistrita-nasaud;-
+bistrita-nasaud;1.2270703472840605;RO;427296;arcalia;bistrita-nasaud;-
+cluj;1.168617901408011;RO;405200;dej;cluj;-
+cluj;1.168617901408011;RO;400413;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400450;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400566;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400676;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400004;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400610;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;405200;dej;cluj;-
+cluj;1.168617901408011;RO;400427;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400529;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;405100;campia turzii;cluj;-
+cluj;1.168617901408011;RO;405400;huedin;cluj;-
+cluj;1.168617901408011;RO;400577;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;401033;turda;cluj;-
+cluj;1.168617901408011;RO;407055;baciu;cluj;-
+cluj;1.168617901408011;RO;405200;dej;cluj;-
+cluj;1.168617901408011;RO;407005;aghiresu;cluj;-
+cluj;1.168617901408011;RO;400581;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400434;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400001;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400200;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400001;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400512;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;405400;huedin;cluj;-
+cluj;1.168617901408011;RO;400401;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400347;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400593;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400219;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;405100;campia turzii;cluj;-
+cluj;1.168617901408011;RO;400675;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;405300;gherla;cluj;-
+cluj;1.168617901408011;RO;400335;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400445;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400301;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;400032;cluj-napoca;cluj;-
+cluj;1.168617901408011;RO;405300;gherla;cluj;-
+maramures;1.2070001767721408;RO;430172;baia mare;maramures;-
+maramures;1.2070001767721408;RO;430064;baia mare;maramures;-
+maramures;1.2070001767721408;RO;435400;seini;maramures;-
+maramures;1.2070001767721408;RO;435200;borsa;maramures;-
+maramures;1.2070001767721408;RO;430202;baia mare;maramures;-
+maramures;1.2070001767721408;RO;437345;tautii-magheraus;maramures;-
+maramures;1.2070001767721408;RO;430223;baia mare;maramures;-
+satu mare;1.163868904876099;RO;445100;carei;satu mare;-
+satu mare;1.163868904876099;RO;447131;atea;satu mare;-
+satu mare;1.163868904876099;RO;440111;satu mare;satu mare;-
+satu mare;1.163868904876099;RO;440186;satu mare;satu mare;-
+satu mare;1.163868904876099;RO;440145;satu mare;satu mare;-
+satu mare;1.163868904876099;RO;440273;satu mare;satu mare;-
+salaj;1.1393779825571828;RO;450062;zalau;salaj;-
+salaj;1.1393779825571828;RO;450017;zalau;salaj;-
+salaj;1.1393779825571828;RO;450075;zalau;salaj;-
+salaj;1.1393779825571828;RO;450025;zalau;salaj;-
+salaj;1.1393779825571828;RO;450117;zalau;salaj;-
+alba;1.1643085349155635;RO;517875;vintu de jos;alba;-
+alba;1.1643085349155635;RO;510016;alba iulia;alba;-
+alba;1.1643085349155635;RO;517751;balomiru de camp;alba;-
+alba;1.1643085349155635;RO;510217;alba iulia;alba;-
+alba;1.1643085349155635;RO;510065;alba iulia;alba;-
+alba;1.1643085349155635;RO;510006;alba iulia;alba;-
+brasov;1.226280834914611;RO;500173;brasov;brasov;-
+brasov;1.226280834914611;RO;500356;brasov;brasov;-
+brasov;1.226280834914611;RO;500460;brasov;brasov;-
+brasov;1.226280834914611;RO;500352;brasov;brasov;-
+brasov;1.226280834914611;RO;500407;brasov;brasov;-
+brasov;1.226280834914611;RO;500432;brasov;brasov;-
+brasov;1.226280834914611;RO;500427;brasov;brasov;-
+brasov;1.226280834914611;RO;500289;brasov;brasov;-
+brasov;1.226280834914611;RO;500314;brasov;brasov;-
+brasov;1.226280834914611;RO;500432;brasov;brasov;-
+brasov;1.226280834914611;RO;500260;brasov;brasov;-
+brasov;1.226280834914611;RO;505200;fagaras;brasov;-
+brasov;1.226280834914611;RO;505100;codlea;brasov;-
+brasov;1.226280834914611;RO;500439;brasov;brasov;-
+brasov;1.226280834914611;RO;500419;brasov;brasov;-
+brasov;1.226280834914611;RO;505100;codlea;brasov;-
+brasov;1.226280834914611;RO;500177;brasov;brasov;-
+brasov;1.226280834914611;RO;507060;dumbravita;brasov;-
+brasov;1.226280834914611;RO;500233;brasov;brasov;-
+brasov;1.226280834914611;RO;505700;victoria;brasov;-
+brasov;1.226280834914611;RO;500318;brasov;brasov;-
+brasov;1.226280834914611;RO;500403;brasov;brasov;-
+brasov;1.226280834914611;RO;500174;brasov;brasov;-
+brasov;1.226280834914611;RO;500428;brasov;brasov;-
+brasov;1.226280834914611;RO;500240;brasov;brasov;-
+brasov;1.226280834914611;RO;500265;brasov;brasov;-
+brasov;1.226280834914611;RO;500460;brasov;brasov;-
+covasna;1.1273390269647827;RO;527158;zabratau;covasna;-
+covasna;1.1273390269647827;RO;525400;targu secuiesc;covasna;-
+covasna;1.1273390269647827;RO;520024;sfantu gheorghe;covasna;-
+covasna;1.1273390269647827;RO;520076;sfantu gheorghe;covasna;-
+covasna;1.1273390269647827;RO;525100;baraolt;covasna;-
+harghita;1.1638541099618944;RO;535500;gheorgheni;harghita;-
+harghita;1.1638541099618944;RO;535600;odorheiu secuiesc;harghita;-
+harghita;1.1638541099618944;RO;530202;miercurea-ciuc;harghita;-
+harghita;1.1638541099618944;RO;535600;odorheiu secuiesc;harghita;-
+harghita;1.1638541099618944;RO;535500;gheorgheni;harghita;-
+harghita;1.1638541099618944;RO;537335;tusnad;harghita;-
+harghita;1.1638541099618944;RO;530130;miercurea-ciuc;harghita;-
+harghita;1.1638541099618944;RO;530183;miercurea-ciuc;harghita;-
+mures;1.1798318145033602;RO;547640;vetca;mures;-
+mures;1.1798318145033602;RO;545300;reghin;mures;-
+mures;1.1798318145033602;RO;540148;targu mures;mures;-
+mures;1.1798318145033602;RO;545300;reghin;mures;-
+mures;1.1798318145033602;RO;545300;reghin;mures;-
+mures;1.1798318145033602;RO;540560;targu mures;mures;-
+mures;1.1798318145033602;RO;545300;reghin;mures;-
+mures;1.1798318145033602;RO;547367;corunca;mures;-
+mures;1.1798318145033602;RO;540224;targu mures;mures;-
+mures;1.1798318145033602;RO;545300;reghin;mures;-
+sibiu;1.2353225028148624;RO;550382;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;550298;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;555200;avrig;sibiu;-
+sibiu;1.2353225028148624;RO;557050;blajel;sibiu;-
+sibiu;1.2353225028148624;RO;550305;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;551004;medias;sibiu;-
+sibiu;1.2353225028148624;RO;550114;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;550069;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;550075;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;550012;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;550315;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;550222;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;551010;medias;sibiu;-
+sibiu;1.2353225028148624;RO;550102;sibiu;sibiu;-
+sibiu;1.2353225028148624;RO;555300;cisnadie;sibiu;-
+bacau;1.1337118078338515;RO;605400;moinesti;bacau;-
+bacau;1.1337118078338515;RO;600118;bacau;bacau;-
+bacau;1.1337118078338515;RO;600112;bacau;bacau;-
+bacau;1.1337118078338515;RO;600094;bacau;bacau;-
+bacau;1.1337118078338515;RO;605600;targu ocna;bacau;-
+bacau;1.1337118078338515;RO;605600;targu ocna;bacau;-
+bacau;1.1337118078338515;RO;601014;onesti;bacau;-
+bacau;1.1337118078338515;RO;607020;asau;bacau;-
+bacau;1.1337118078338515;RO;600317;bacau;bacau;-
+bacau;1.1337118078338515;RO;600100;bacau;bacau;-
+bacau;1.1337118078338515;RO;600258;bacau;bacau;-
+bacau;1.1337118078338515;RO;601133;onesti;bacau;-
+bacau;1.1337118078338515;RO;600001;bacau;bacau;-
+bacau;1.1337118078338515;RO;601025;onesti;bacau;-
+bacau;1.1337118078338515;RO;600282;bacau;bacau;-
+bacau;1.1337118078338515;RO;600026;bacau;bacau;-
+botosani;1.1436942565384118;RO;710005;botosani;botosani;-
+botosani;1.1436942565384118;RO;715200;dorohoi;botosani;-
+botosani;1.1436942565384118;RO;715200;dorohoi;botosani;-
+botosani;1.1436942565384118;RO;717156;chitoveni;botosani;-
+botosani;1.1436942565384118;RO;710156;botosani;botosani;-
+botosani;1.1436942565384118;RO;715200;dorohoi;botosani;-
+botosani;1.1436942565384118;RO;710214;botosani;botosani;-
+botosani;1.1436942565384118;RO;715100;darabani;botosani;-
+botosani;1.1436942565384118;RO;717160;frumusica;botosani;-
+botosani;1.1436942565384118;RO;710282;botosani;botosani;-
+iasi;1.1256431535269709;RO;707252;dancu;iasi;-
+iasi;1.1256431535269709;RO;707305;miroslava;iasi;-
+iasi;1.1256431535269709;RO;700505;iasi;iasi;-
+iasi;1.1256431535269709;RO;700529;iasi;iasi;-
+iasi;1.1256431535269709;RO;700547;iasi;iasi;-
+iasi;1.1256431535269709;RO;700305;iasi;iasi;-
+iasi;1.1256431535269709;RO;700443;iasi;iasi;-
+iasi;1.1256431535269709;RO;700373;iasi;iasi;-
+iasi;1.1256431535269709;RO;707120;cotnari;iasi;-
+iasi;1.1256431535269709;RO;700443;iasi;iasi;-
+iasi;1.1256431535269709;RO;700025;iasi;iasi;-
+iasi;1.1256431535269709;RO;700535;iasi;iasi;-
+iasi;1.1256431535269709;RO;700358;iasi;iasi;-
+iasi;1.1256431535269709;RO;700135;iasi;iasi;-
+iasi;1.1256431535269709;RO;700431;iasi;iasi;-
+iasi;1.1256431535269709;RO;707405;rediu;iasi;-
+iasi;1.1256431535269709;RO;707038;pietraria;iasi;-
+iasi;1.1256431535269709;RO;700669;iasi;iasi;-
+iasi;1.1256431535269709;RO;700373;iasi;iasi;-
+iasi;1.1256431535269709;RO;700731;iasi;iasi;-
+iasi;1.1256431535269709;RO;707100;coarnele caprei;iasi;-
+iasi;1.1256431535269709;RO;700345;iasi;iasi;-
+iasi;1.1256431535269709;RO;700156;iasi;iasi;-
+iasi;1.1256431535269709;RO;700597;iasi;iasi;-
+iasi;1.1256431535269709;RO;700597;iasi;iasi;-
+iasi;1.1256431535269709;RO;700241;iasi;iasi;-
+iasi;1.1256431535269709;RO;700358;iasi;iasi;-
+iasi;1.1256431535269709;RO;700305;iasi;iasi;-
+iasi;1.1256431535269709;RO;700409;iasi;iasi;-
+iasi;1.1256431535269709;RO;700358;iasi;iasi;-
+iasi;1.1256431535269709;RO;700465;iasi;iasi;-
+iasi;1.1256431535269709;RO;700302;iasi;iasi;-
+iasi;1.1256431535269709;RO;700612;iasi;iasi;-
+iasi;1.1256431535269709;RO;700205;iasi;iasi;-
+iasi;1.1256431535269709;RO;700360;iasi;iasi;-
+iasi;1.1256431535269709;RO;700056;iasi;iasi;-
+iasi;1.1256431535269709;RO;700734;iasi;iasi;-
+iasi;1.1256431535269709;RO;700305;iasi;iasi;-
+neamt;1.1691574615551223;RO;611110;roman;neamt;-
+neamt;1.1691574615551223;RO;611123;roman;neamt;-
+neamt;1.1691574615551223;RO;610039;piatra-neamt;neamt;-
+neamt;1.1691574615551223;RO;610061;piatra-neamt;neamt;-
+neamt;1.1691574615551223;RO;610249;piatra-neamt;neamt;-
+neamt;1.1691574615551223;RO;610262;piatra-neamt;neamt;-
+neamt;1.1691574615551223;RO;610106;piatra-neamt;neamt;-
+neamt;1.1691574615551223;RO;610010;piatra-neamt;neamt;-
+neamt;1.1691574615551223;RO;610291;piatra-neamt;neamt;-
+neamt;1.1691574615551223;RO;617515;zanesti;neamt;-
+neamt;1.1691574615551223;RO;611123;roman;neamt;-
+neamt;1.1691574615551223;RO;617235;grumazesti;neamt;-
+suceava;1.2173416637594747;RO;725400;radauti;suceava;-
+suceava;1.2173416637594747;RO;720034;suceava;suceava;-
+suceava;1.2173416637594747;RO;720274;suceava;suceava;-
+suceava;1.2173416637594747;RO;720005;suceava;suceava;-
+suceava;1.2173416637594747;RO;720256;suceava;suceava;-
+suceava;1.2173416637594747;RO;720238;suceava;suceava;-
+suceava;1.2173416637594747;RO;720264;suceava;suceava;-
+suceava;1.2173416637594747;RO;725100;campulung moldovenesc;suceava;-
+suceava;1.2173416637594747;RO;720196;suceava;suceava;-
+suceava;1.2173416637594747;RO;727250;fratautii noi;suceava;-
+suceava;1.2173416637594747;RO;720071;suceava;suceava;-
+suceava;1.2173416637594747;RO;720115;suceava;suceava;-
+suceava;1.2173416637594747;RO;727528;sfantu ilie;suceava;-
+suceava;1.2173416637594747;RO;720256;suceava;suceava;-
+suceava;1.2173416637594747;RO;725300;gura humorului;suceava;-
+vaslui;1.0658057668494605;RO;737521;protopopesti;vaslui;-
+vaslui;1.0658057668494605;RO;737446;armasoaia;vaslui;-
+vaslui;1.0658057668494605;RO;730036;vaslui;vaslui;-
+vaslui;1.0658057668494605;RO;735100;husi;vaslui;-
+vaslui;1.0658057668494605;RO;731110;barlad;vaslui;-
+vaslui;1.0658057668494605;RO;730138;vaslui;vaslui;-
+vaslui;1.0658057668494605;RO;731071;barlad;vaslui;-
+braila;1.1416546910285363;RO;810290;braila;braila;-
+braila;1.1416546910285363;RO;810269;braila;braila;-
+braila;1.1416546910285363;RO;810300;braila;braila;-
+braila;1.1416546910285363;RO;810281;braila;braila;-
+braila;1.1416546910285363;RO;810001;braila;braila;-
+braila;1.1416546910285363;RO;815200;ianca;braila;-
+braila;1.1416546910285363;RO;810234;braila;braila;-
+braila;1.1416546910285363;RO;810188;braila;braila;-
+braila;1.1416546910285363;RO;810510;braila;braila;-
+braila;1.1416546910285363;RO;810396;braila;braila;-
+braila;1.1416546910285363;RO;810241;braila;braila;-
+braila;1.1416546910285363;RO;810094;braila;braila;-
+braila;1.1416546910285363;RO;810094;braila;braila;-
+braila;1.1416546910285363;RO;817215;viziru;braila;-
+braila;1.1416546910285363;RO;810194;braila;braila;-
+braila;1.1416546910285363;RO;810341;braila;braila;-
+braila;1.1416546910285363;RO;810220;braila;braila;-
+braila;1.1416546910285363;RO;810005;braila;braila;-
+buzau;1.097012172630026;RO;120127;buzau;buzau;-
+buzau;1.097012172630026;RO;120168;buzau;buzau;-
+buzau;1.097012172630026;RO;120063;buzau;buzau;-
+buzau;1.097012172630026;RO;120088;buzau;buzau;-
+buzau;1.097012172630026;RO;125300;ramnicu sarat;buzau;-
+buzau;1.097012172630026;RO;120049;buzau;buzau;-
+buzau;1.097012172630026;RO;120212;buzau;buzau;-
+buzau;1.097012172630026;RO;120038;buzau;buzau;-
+buzau;1.097012172630026;RO;120201;buzau;buzau;-
+buzau;1.097012172630026;RO;120074;buzau;buzau;-
+buzau;1.097012172630026;RO;127650;vadu pasii;buzau;-
+buzau;1.097012172630026;RO;120072;buzau;buzau;-
+buzau;1.097012172630026;RO;120213;buzau;buzau;-
+buzau;1.097012172630026;RO;127430;patarlagele;buzau;-
+constanta;1.176086562292208;RO;900123;constanta;constanta;-
+constanta;1.176086562292208;RO;900007;constanta;constanta;-
+constanta;1.176086562292208;RO;900005;constanta;constanta;-
+constanta;1.176086562292208;RO;905700;navodari;constanta;-
+constanta;1.176086562292208;RO;905600;medgidia;constanta;-
+constanta;1.176086562292208;RO;905700;navodari;constanta;-
+constanta;1.176086562292208;RO;900001;mamaia;constanta;-
+constanta;1.176086562292208;RO;900507;constanta;constanta;-
+constanta;1.176086562292208;RO;900517;constanta;constanta;-
+constanta;1.176086562292208;RO;900520;constanta;constanta;-
+constanta;1.176086562292208;RO;900250;constanta;constanta;-
+constanta;1.176086562292208;RO;907295;tuzla;constanta;-
+constanta;1.176086562292208;RO;900514;constanta;constanta;-
+constanta;1.176086562292208;RO;905700;navodari;constanta;-
+constanta;1.176086562292208;RO;905500;mangalia;constanta;-
+constanta;1.176086562292208;RO;900123;constanta;constanta;-
+constanta;1.176086562292208;RO;905600;medgidia;constanta;-
+constanta;1.176086562292208;RO;900503;constanta;constanta;-
+constanta;1.176086562292208;RO;900426;constanta;constanta;-
+constanta;1.176086562292208;RO;900205;constanta;constanta;-
+constanta;1.176086562292208;RO;900270;constanta;constanta;-
+constanta;1.176086562292208;RO;900270;constanta;constanta;-
+constanta;1.176086562292208;RO;900258;constanta;constanta;-
+constanta;1.176086562292208;RO;900744;constanta;constanta;-
+constanta;1.176086562292208;RO;905400;harsova;constanta;-
+constanta;1.176086562292208;RO;905500;mangalia;constanta;-
+galati;1.1077457450503647;RO;800647;galati;galati;-
+galati;1.1077457450503647;RO;800190;galati;galati;-
+galati;1.1077457450503647;RO;807135;frumusita;galati;-
+galati;1.1077457450503647;RO;800676;galati;galati;-
+galati;1.1077457450503647;RO;800612;galati;galati;-
+galati;1.1077457450503647;RO;807095;costache negri;galati;-
+galati;1.1077457450503647;RO;800702;galati;galati;-
+galati;1.1077457450503647;RO;800669;galati;galati;-
+galati;1.1077457450503647;RO;800029;galati;galati;-
+galati;1.1077457450503647;RO;805300;tecuci;galati;-
+galati;1.1077457450503647;RO;805100;beresti;galati;-
+galati;1.1077457450503647;RO;800421;galati;galati;-
+galati;1.1077457450503647;RO;800265;galati;galati;-
+galati;1.1077457450503647;RO;800642;galati;galati;-
+galati;1.1077457450503647;RO;800375;galati;galati;-
+galati;1.1077457450503647;RO;800332;galati;galati;-
+galati;1.1077457450503647;RO;800407;galati;galati;-
+galati;1.1077457450503647;RO;800121;galati;galati;-
+tulcea;1.1198453608247425;RO;820211;tulcea;tulcea;-
+tulcea;1.1198453608247425;RO;820004;tulcea;tulcea;-
+tulcea;1.1198453608247425;RO;820080;tulcea;tulcea;-
+vrancea;1.0927588891772644;RO;625100;adjud;vrancea;-
+vrancea;1.0927588891772644;RO;625200;marasesti;vrancea;-
+vrancea;1.0927588891772644;RO;627142;ciuslea;vrancea;-
+vrancea;1.0927588891772644;RO;620009;focsani;vrancea;-
+arges;1.2161042036708112;RO;110043;pitesti;arges;-
+arges;1.2161042036708112;RO;117723;zavoi;arges;-
+arges;1.2161042036708112;RO;110323;pitesti;arges;-
+arges;1.2161042036708112;RO;110314;pitesti;arges;-
+arges;1.2161042036708112;RO;110113;pitesti;arges;-
+arges;1.2161042036708112;RO;110359;pitesti;arges;-
+arges;1.2161042036708112;RO;115400;mioveni;arges;-
+arges;1.2161042036708112;RO;110365;pitesti;arges;-
+arges;1.2161042036708112;RO;115100;campulung;arges;-
+arges;1.2161042036708112;RO;117505;mosoaia;arges;-
+arges;1.2161042036708112;RO;110438;pitesti;arges;-
+arges;1.2161042036708112;RO;117045;bascov;arges;-
+arges;1.2161042036708112;RO;115300;curtea de arges;arges;-
+arges;1.2161042036708112;RO;110251;pitesti;arges;-
+arges;1.2161042036708112;RO;115400;mioveni;arges;-
+arges;1.2161042036708112;RO;117719;stefanestii noi;arges;-
+calarasi;1.1502987935505693;RO;915400;oltenita;calarasi;-
+calarasi;1.1502987935505693;RO;915400;oltenita;calarasi;-
+calarasi;1.1502987935505693;RO;917015;borcea;calarasi;-
+calarasi;1.1502987935505693;RO;910103;calarasi;calarasi;-
+calarasi;1.1502987935505693;RO;910021;calarasi;calarasi;-
+calarasi;1.1502987935505693;RO;917180;modelu;calarasi;-
+calarasi;1.1502987935505693;RO;915400;oltenita;calarasi;-
+dambovita;1.2064202484759627;RO;137441;caprioru;dambovita;-
+dambovita;1.2064202484759627;RO;135300;moreni;dambovita;-
+dambovita;1.2064202484759627;RO;130060;targoviste;dambovita;-
+dambovita;1.2064202484759627;RO;130060;targoviste;dambovita;-
+dambovita;1.2064202484759627;RO;137037;costisata;dambovita;-
+dambovita;1.2064202484759627;RO;130159;targoviste;dambovita;-
+dambovita;1.2064202484759627;RO;130008;targoviste;dambovita;-
+dambovita;1.2064202484759627;RO;137291;dragaesti-pamanteni;dambovita;-
+dambovita;1.2064202484759627;RO;137397;valea voievozilor;dambovita;-
+dambovita;1.2064202484759627;RO;130135;targoviste;dambovita;-
+dambovita;1.2064202484759627;RO;130135;targoviste;dambovita;-
+dambovita;1.2064202484759627;RO;137385;racari;dambovita;-
+dambovita;1.2064202484759627;RO;137224;gheboaia;dambovita;-
+giurgiu;1.1183804186206108;RO;80038;giurgiu;giurgiu;-
+giurgiu;1.1183804186206108;RO;85200;mihailesti;giurgiu;-
+giurgiu;1.1183804186206108;RO;80302;giurgiu;giurgiu;-
+giurgiu;1.1183804186206108;RO;80696;giurgiu;giurgiu;-
+ialomita;1.1568275154004106;RO;920072;slobozia;ialomita;-
+ialomita;1.1568275154004106;RO;920003;slobozia;ialomita;-
+ialomita;1.1568275154004106;RO;927020;amara;ialomita;-
+ialomita;1.1568275154004106;RO;920007;slobozia;ialomita;-
+ialomita;1.1568275154004106;RO;920022;slobozia;ialomita;-
+ialomita;1.1568275154004106;RO;925150;fetesti-gara;ialomita;-
+ialomita;1.1568275154004106;RO;927015;alexeni;ialomita;-
+ialomita;1.1568275154004106;RO;925150;fetesti-gara;ialomita;-
+prahova;1.2213225371120109;RO;100212;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;105600;campina;prahova;-
+prahova;1.2213225371120109;RO;100444;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;100278;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;105900;plopeni;prahova;-
+prahova;1.2213225371120109;RO;107345;magurele;prahova;-
+prahova;1.2213225371120109;RO;105200;baicoi;prahova;-
+prahova;1.2213225371120109;RO;100216;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;107113;pleasa;prahova;-
+prahova;1.2213225371120109;RO;105600;campina;prahova;-
+prahova;1.2213225371120109;RO;100188;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;106200;slanic;prahova;-
+prahova;1.2213225371120109;RO;105700;comarnic;prahova;-
+prahova;1.2213225371120109;RO;100515;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;105600;campina;prahova;-
+prahova;1.2213225371120109;RO;100337;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;100121;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;105800;mizil;prahova;-
+prahova;1.2213225371120109;RO;100454;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;105600;campina;prahova;-
+prahova;1.2213225371120109;RO;100229;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;105200;baicoi;prahova;-
+prahova;1.2213225371120109;RO;100181;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;105200;baicoi;prahova;-
+prahova;1.2213225371120109;RO;100520;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;107597;olteni;prahova;-
+prahova;1.2213225371120109;RO;107191;catunu (drajna);prahova;-
+prahova;1.2213225371120109;RO;100485;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;100489;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;100377;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;107411;ghiocel;prahova;-
+prahova;1.2213225371120109;RO;100502;ploiesti;prahova;-
+prahova;1.2213225371120109;RO;105700;comarnic;prahova;-
+prahova;1.2213225371120109;RO;100582;ploiesti;prahova;-
+teleorman;1.0617992997915109;RO;140025;alexandria;teleorman;-
+teleorman;1.0617992997915109;RO;140032;alexandria;teleorman;-
+teleorman;1.0617992997915109;RO;145100;rosiori de vede;teleorman;-
+teleorman;1.0617992997915109;RO;140082;alexandria;teleorman;-
+teleorman;1.0617992997915109;RO;145200;turnu magurele;teleorman;-
+teleorman;1.0617992997915109;RO;140041;alexandria;teleorman;-
+bucuresti;1.175384544902704;RO;23075;bucuresti 11;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;51773;bucuresti 69;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;31083;bucuresti 4;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;60257;bucuresti 17;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;42062;bucuresti 8;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32556;bucuresti 72;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;51176;bucuresti 51;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;41721;bucuresti 82;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;60471;bucuresti 17;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;60887;bucuresti 16;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;40056;bucuresti 53;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;11737;bucuresti 63;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32328;bucuresti 72;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;41016;bucuresti 7;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;31906;bucuresti 80;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;42161;bucuresti 8;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;11608;bucuresti 63;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;11494;bucuresti 2;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;51854;bucuresti 75;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;50896;bucuresti 69;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32321;bucuresti 72;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32867;bucuresti 70;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;60302;bucuresti 56;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;21916;bucuresti 39;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;21823;bucuresti 39;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32524;bucuresti 72;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;13416;bucuresti 68;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;41455;bucuresti 61;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;51028;bucuresti 69;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32173;bucuresti 19;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;23613;bucuresti 38;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;30394;bucuresti 49;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;31322;bucuresti 77;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;41784;bucuresti 82;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;40504;bucuresti 28;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;22334;bucuresti 24;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;10721;bucuresti 32;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;14231;bucuresti 52;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;61086;bucuresti 76;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;41794;bucuresti 82;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;41302;bucuresti 61;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;13014;bucuresti 86;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;62061;bucuresti 74;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;23685;bucuresti 38;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;61097;bucuresti 76;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;20801;bucuresti 9;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;23588;bucuresti 38;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;11211;bucuresti 32;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;42183;bucuresti 8;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32352;bucuresti 72;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;21332;bucuresti 39;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;31624;bucuresti 77;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32441;bucuresti 72;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;41077;bucuresti 7;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32451;bucuresti 60;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;61376;bucuresti 74;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;50034;bucuresti 15;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;40235;bucuresti 53;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;30622;bucuresti 4;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;31782;bucuresti 72;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;30126;bucuresti 4;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;10516;bucuresti 22;bucuresti;bucuresti
+bucuresti;1.175384544902704;RO;32562;bucuresti 72;bucuresti;bucuresti
+ilfov;1.2201144233664558;RO;77086;fundeni;ilfov;-
+ilfov;1.2201144233664558;RO;77045;chitila;ilfov;-
+ilfov;1.2201144233664558;RO;77135;mogosoaia;ilfov;-
+ilfov;1.2201144233664558;RO;77175;stefanestii de jos;ilfov;-
+ilfov;1.2201144233664558;RO;77145;pantelimon;ilfov;-
+ilfov;1.2201144233664558;RO;77020;berceni;ilfov;-
+ilfov;1.2201144233664558;RO;77185;vidra;ilfov;-
+ilfov;1.2201144233664558;RO;77190;voluntari;ilfov;-
+ilfov;1.2201144233664558;RO;77185;vidra;ilfov;-
+dolj;1.08957758437699;RO;200480;craiova;dolj;-
+dolj;1.08957758437699;RO;207360;maglavit;dolj;-
+dolj;1.08957758437699;RO;200171;craiova;dolj;-
+dolj;1.08957758437699;RO;200286;craiova;dolj;-
+dolj;1.08957758437699;RO;200093;craiova;dolj;-
+dolj;1.08957758437699;RO;207367;preajba;dolj;-
+dolj;1.08957758437699;RO;207281;garlesti;dolj;-
+dolj;1.08957758437699;RO;200171;craiova;dolj;-
+dolj;1.08957758437699;RO;205300;filiasi;dolj;-
+dolj;1.08957758437699;RO;200046;craiova;dolj;-
+dolj;1.08957758437699;RO;207450;pielesti;dolj;-
+dolj;1.08957758437699;RO;200222;craiova;dolj;-
+dolj;1.08957758437699;RO;200117;craiova;dolj;-
+dolj;1.08957758437699;RO;200675;craiova;dolj;-
+dolj;1.08957758437699;RO;200419;craiova;dolj;-
+dolj;1.08957758437699;RO;200440;craiova;dolj;-
+dolj;1.08957758437699;RO;200187;craiova;dolj;-
+dolj;1.08957758437699;RO;200506;craiova;dolj;-
+dolj;1.08957758437699;RO;200147;craiova;dolj;-
+dolj;1.08957758437699;RO;200252;craiova;dolj;-
+dolj;1.08957758437699;RO;200202;craiova;dolj;-
+dolj;1.08957758437699;RO;200056;craiova;dolj;-
+dolj;1.08957758437699;RO;200100;craiova;dolj;-
+dolj;1.08957758437699;RO;207360;maglavit;dolj;-
+gorj;1.165530372827222;RO;217053;tamasesti;gorj;-
+gorj;1.165530372827222;RO;217229;talvesti;gorj;-
+gorj;1.165530372827222;RO;210006;romanesti;gorj;-
+gorj;1.165530372827222;RO;215600;ticleni;gorj;-
+gorj;1.165530372827222;RO;215104;tetila;gorj;-
+gorj;1.165530372827222;RO;210258;targu jiu;gorj;-
+gorj;1.165530372827222;RO;210171;targu jiu;gorj;-
+gorj;1.165530372827222;RO;215200;motru;gorj;-
+gorj;1.165530372827222;RO;217459;curpen;gorj;-
+gorj;1.165530372827222;RO;217064;vladuleni;gorj;-
+gorj;1.165530372827222;RO;215500;targu carbunesti;gorj;-
+gorj;1.165530372827222;RO;215400;rovinari;gorj;-
+gorj;1.165530372827222;RO;215200;motru;gorj;-
+mehedinti;1.0943245403677058;RO;220021;drobeta-turnu severin;mehedinti;-
+mehedinti;1.0943245403677058;RO;220014;drobeta-turnu severin;mehedinti;-
+mehedinti;1.0943245403677058;RO;220072;drobeta-turnu severin;mehedinti;-
+mehedinti;1.0943245403677058;RO;227195;eselnita;mehedinti;-
+mehedinti;1.0943245403677058;RO;220078;drobeta-turnu severin;mehedinti;-
+olt;1.1389841194782675;RO;230127;slatina;olt;-
+olt;1.1389841194782675;RO;237275;movileni;olt;-
+olt;1.1389841194782675;RO;230100;slatina;olt;-
+olt;1.1389841194782675;RO;235200;caracal;olt;-
+olt;1.1389841194782675;RO;237515;vadastrita;olt;-
+olt;1.1389841194782675;RO;230038;slatina;olt;-
+olt;1.1389841194782675;RO;230053;slatina;olt;-
+olt;1.1389841194782675;RO;230020;slatina;olt;-
+olt;1.1389841194782675;RO;230107;slatina;olt;-
+olt;1.1389841194782675;RO;230038;slatina;olt;-
+olt;1.1389841194782675;RO;235200;caracal;olt;-
+olt;1.1389841194782675;RO;230029;slatina;olt;-
+valcea;1.1559194814056637;RO;245500;brezoi;valcea;-
+valcea;1.1559194814056637;RO;240273;ramnicu valcea;valcea;-
+valcea;1.1559194814056637;RO;245800;horezu;valcea;-
+valcea;1.1559194814056637;RO;240235;ramnicu valcea;valcea;-
+valcea;1.1559194814056637;RO;245700;dragasani;valcea;-
+valcea;1.1559194814056637;RO;240011;ramnicu valcea;valcea;-
+valcea;1.1559194814056637;RO;245100;babeni;valcea;-
+valcea;1.1559194814056637;RO;240067;ramnicu valcea;valcea;-
+valcea;1.1559194814056637;RO;240235;ramnicu valcea;valcea;-
+valcea;1.1559194814056637;RO;240215;ramnicu valcea;valcea;-
+valcea;1.1559194814056637;RO;245200;baile govora;valcea;-
+valcea;1.1559194814056637;RO;245700;dragasani;valcea;-
+arad;1.1697372268872457;RO;310002;arad;arad;-
+arad;1.1697372268872457;RO;315700;sebis;arad;-
+arad;1.1697372268872457;RO;317426;andrei saguna;arad;-
+arad;1.1697372268872457;RO;317235;pecica;arad;-
+arad;1.1697372268872457;RO;310340;arad;arad;-
+caras-severin;1.1427530511870787;RO;320003;doman;caras-severin;-
+caras-severin;1.1427530511870787;RO;320127;resita;caras-severin;-
+caras-severin;1.1427530511870787;RO;320052;resita;caras-severin;-
+caras-severin;1.1427530511870787;RO;325200;baile herculane;caras-severin;-
+caras-severin;1.1427530511870787;RO;327105;cornea;caras-severin;-
+caras-severin;1.1427530511870787;RO;325400;caransebes;caras-severin;-
+caras-severin;1.1427530511870787;RO;320147;resita;caras-severin;-
+caras-severin;1.1427530511870787;RO;325200;baile herculane;caras-severin;-
+hunedoara;1.2089463389744026;RO;335800;petrila;hunedoara;-
+hunedoara;1.2089463389744026;RO;332014;petrosani;hunedoara;-
+hunedoara;1.2089463389744026;RO;331057;hunedoara;hunedoara;-
+hunedoara;1.2089463389744026;RO;336200;vulcan;hunedoara;-
+hunedoara;1.2089463389744026;RO;335700;orastie;hunedoara;-
+hunedoara;1.2089463389744026;RO;330044;deva;hunedoara;-
+hunedoara;1.2089463389744026;RO;335800;petrila;hunedoara;-
+hunedoara;1.2089463389744026;RO;335100;aninoasa;hunedoara;-
+hunedoara;1.2089463389744026;RO;335500;hateg;hunedoara;-
+hunedoara;1.2089463389744026;RO;330045;deva;hunedoara;-
+hunedoara;1.2089463389744026;RO;331030;hunedoara;hunedoara;-
+hunedoara;1.2089463389744026;RO;332079;petrosani;hunedoara;-
+hunedoara;1.2089463389744026;RO;330159;deva;hunedoara;-
+hunedoara;1.2089463389744026;RO;331053;hunedoara;hunedoara;-
+hunedoara;1.2089463389744026;RO;332061;petrosani;hunedoara;-
+hunedoara;1.2089463389744026;RO;331049;hunedoara;hunedoara;-
+hunedoara;1.2089463389744026;RO;332016;petrosani;hunedoara;-
+hunedoara;1.2089463389744026;RO;331163;hunedoara;hunedoara;-
+timis;1.1366619860888874;RO;305600;sannicolau mare;timis;-
+timis;1.1366619860888874;RO;307221;chisoda;timis;-
+timis;1.1366619860888874;RO;300450;timisoara;timis;-
+timis;1.1366619860888874;RO;300200;timisoara;timis;-
+timis;1.1366619860888874;RO;300516;timisoara;timis;-
+timis;1.1366619860888874;RO;300776;timisoara;timis;-
+timis;1.1366619860888874;RO;300417;timisoara;timis;-
+timis;1.1366619860888874;RO;300124;timisoara;timis;-
+timis;1.1366619860888874;RO;300699;timisoara;timis;-
+timis;1.1366619860888874;RO;300727;timisoara;timis;-
+timis;1.1366619860888874;RO;307220;giroc;timis;-
+timis;1.1366619860888874;RO;305500;lugoj;timis;-
+timis;1.1366619860888874;RO;300650;timisoara;timis;-
+timis;1.1366619860888874;RO;300109;timisoara;timis;-
+timis;1.1366619860888874;RO;300363;timisoara;timis;-
+timis;1.1366619860888874;RO;300627;timisoara;timis;-
+timis;1.1366619860888874;RO;300426;timisoara;timis;-
+timis;1.1366619860888874;RO;300005;timisoara;timis;-
+timis;1.1366619860888874;RO;300743;timisoara;timis;-
+timis;1.1366619860888874;RO;305500;lugoj;timis;-
+timis;1.1366619860888874;RO;307290;nadrag;timis;-
+timis;1.1366619860888874;RO;307315;periam;timis;-
+timis;1.1366619860888874;RO;300500;timisoara;timis;-
+timis;1.1366619860888874;RO;300360;timisoara;timis;-
+timis;1.1366619860888874;RO;307220;giroc;timis;-
+timis;1.1366619860888874;RO;300005;timisoara;timis;-
+timis;1.1366619860888874;RO;307150;dudestii vechi;timis;-
+timis;1.1366619860888874;RO;300568;timisoara;timis;-
+timis;1.1366619860888874;RO;300166;timisoara;timis;-
+timis;1.1366619860888874;RO;300236;timisoara;timis;-
